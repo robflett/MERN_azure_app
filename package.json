@@ -1,0 +1,8 @@
+{
+  "name": "MERN_azure_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robflett/MERN_azure_app.git",
+  "author": "robflett <robflettcc@gmail.com>",
+  "license": "MIT"
+}
